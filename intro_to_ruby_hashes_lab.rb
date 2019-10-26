@@ -28,4 +28,5 @@ def update_counting_hash(hash, key)
   else
     puts hash.default
  end
+ nil
 end
